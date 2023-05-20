@@ -1,1 +1,1 @@
-mkdir hi
+echo "hello"
